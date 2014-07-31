@@ -1,8 +1,12 @@
 Red/Yellow Card project
 ======================
 
-This project has its roots in Defcon 2011. Defcon, if you’re not aware, is the worlds largest hacker conference. It takes place every summer in Las Vegas. It is a place for hackers of all types to come together for a bit of fun, learning, and partying. Unfortunately it can also be a frustrating place for women, who are often the target of harassment. This can range from mildy squick-worthy comments (one longtime female attendee who is in her fourth year of also presenting was asked last year why she was wearing her husband’s speaker badge) to full on unsolicited groping (something KC personally experienced last year). There’s been a lot of interesting discussion about about why these issues are so prevalent. KC highly recommends checking out GeekFeminism’s “Issues” category on their wiki, and would suggest the specific entries on tech conferences and harassment as especially relevant to the Defcon discussion. It is also a good time to remind readers that the harassment that women face at Defcon does not exist in a vacuum.
+The goal of this project is to create a ubiquitous mobile application to help track behavior between conference attendees.
+This project was inspired by the original Red/Yellow Card project that came to be because of interactions at Defcon 2011. Tech conferences in general it can also be a frustrating place for women, who are often the target of harassment. This can range from mildy offensive comments to full on unsolicited groping. There’s been a lot of interesting discussion about why these issues are so prevalent. It is also a good time to remind attendees that the harassment that women face at these conferences doesn't completely exist in a vacuum.
 
-While KC doesn't think Defcon itself is “broken,” it seemed like there needed to be a better way of engaging with harassment at this specific conference. When a friend of a friend suggested the idea of being able to hand out red and yellow cards to offenders, KC kind of jumped on it. KC wrote about this idea and the response she's gotten in two previous blog posts.
+It seems like there needs to be a better way of engaging with harassment at any specific conference.
 
+The origins of the red and yellow cards project can be found in two blog posts available at:
 http://singlevoice.net/category/defcon/
+
+Note: I personally feel torn on this subject as I witnessed it first had at a recent conference I attended and sort of couldn't believe my eyes. Before I saw this first hand I wouldn't have believed it. I'm actually trying really hard not to suffer from white knight syndrome but in this case it seems that a simple tool like this should help to reinforce positive behavior amongst peers.
